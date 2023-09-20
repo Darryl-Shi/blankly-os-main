@@ -1,7 +1,0 @@
-quantstats
-flask
-flask_cors
-waitress
-sentry-sdk[flask]
-pandas
-numpy
