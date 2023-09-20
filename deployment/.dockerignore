@@ -1,8 +1,0 @@
-#example of ignoring .git and python cache folder
-.git
-__pycache__
-
-node_modules
-google-cloud-sdk
-kubectl
-deployment
